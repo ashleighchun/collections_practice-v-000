@@ -54,8 +54,8 @@ def find_a(array)
     if e.start_with?("a") 
       all_a << e
     end
-    all_a
   end
+  all_a
 end
 
 
