@@ -69,9 +69,10 @@ end
 
 
 
-#def add_s(array)
+def add_s(array)
  new_array = []
  array.each do |x|
    x += "s"
-   new_array << x
-#end
+   new_array << x 
+ end
+end
