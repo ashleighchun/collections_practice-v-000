@@ -50,9 +50,10 @@ end
 
 def find_a(array)
   array.each do |e|
-    if e.include?(character)
+    if e.include?(a)
       return e
     end
+    
   end
 end
 
