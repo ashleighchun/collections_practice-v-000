@@ -49,11 +49,12 @@ end
 
 
 def find_a(array)
+  all_a = []
   array.each do |e|
     if e.include?("a")
-      return e
+      all_a << e
     end
-    
+    all_a
   end
 end
 
