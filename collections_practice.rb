@@ -76,5 +76,5 @@ def add_s(array)
    new_array << x 
  end
  new_array[1] = "feet"
- new array
+ new_array
 end
