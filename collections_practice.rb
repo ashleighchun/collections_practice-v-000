@@ -51,7 +51,7 @@ end
 def find_a(array)
   all_a = []
   array.each do |e|
-    if e.start_with? ("a") 
+    if e.start_with?("a") 
       all_a << e
     end
     all_a
