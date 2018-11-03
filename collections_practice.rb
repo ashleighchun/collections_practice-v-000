@@ -61,9 +61,9 @@ end
 
 
 
-#def sum_array(array)
+def sum_array(array)
 
-#end
+end
 
 
 
