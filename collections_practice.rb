@@ -76,4 +76,5 @@ def add_s(array)
    new_array << x 
  end
  new_array[1] -+ "s"
+ new array
 end
