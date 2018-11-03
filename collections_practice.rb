@@ -53,7 +53,7 @@ def find_a(array)
   array.each do |e|
   if e.include?(character)
     return e
-end
+  end
 end
 
 
