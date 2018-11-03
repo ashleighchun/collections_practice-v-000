@@ -50,8 +50,8 @@ end
 
 def find_a(array)
   array = gets.chomp!
-  list.each do |e|
-  if array #{character} found in the word #{e}" if e.include?(character)
+  array.each do |e|
+  if e.include?(character)
 end
 end
 
