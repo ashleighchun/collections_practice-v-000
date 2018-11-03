@@ -49,9 +49,10 @@ end
 
 
 def find_a(array)
-  array = gets.chomp!
+  character = gets.chomp!
   array.each do |e|
   if e.include?(character)
+    return e
 end
 end
 
